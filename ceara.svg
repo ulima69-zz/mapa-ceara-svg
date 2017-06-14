@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="800" height="973" viewBox="0 0 800 973" stroke-linecap="round" stroke-linejoin="round">
+   <title>Mapa do Ceará em SGV</title>
+   <desc>
+      Mapa do Ceará em SGV com nomes das cidades. 
+	  O nome da cidade é exibido como tooltip 
+	  quando a cidade está selecionada com o mouse.
+   </desc>
+<metadata>
+      <rdf:RDF
+           xmlns:rdf = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+           xmlns:rdfs = "http://www.w3.org/2000/01/rdf-schema#"
+           xmlns:dc = "http://purl.org/dc/elements/1.1/" >
+        <rdf:Description 
+             dc:title="Mapa do Ceará em SGV"
+             dc:description="Mapa do Ceará em SGV com nomes das cidades. O nome da cidade é exibido como tooltip quando a cidade está selecionada com o mouse."
+             dc:publisher="Wllyssys Alves"
+             dc:date="2017-06-13"
+             dc:format="image/svg+xml"
+             dc:language="pt_BR" >
+          <dc:creator>
+            <rdf:Bag>
+              <rdf:li>Wllyssys Alves</rdf:li>
+            </rdf:Bag>
+          </dc:creator>
+        </rdf:Description>
+      </rdf:RDF>
+    </metadata>
+
+	
 <style>
 path:hover {
     opacity: 0.5;
